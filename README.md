@@ -3,7 +3,7 @@
 Este repositorio contiene el código fuente de la aplicación móvil nativa desarrollada para la asignatura DSY1105. El proyecto consiste en una solución integral desarrollada en Kotlin que implementa patrones de diseño modernos y consumo de servicios distribuidos.
 
 ## Equipo de Desarrollo
-* Pancho Torres
+* Francisco Torres
 * Jason Mancilla
 * Manuel Vallegos
 
